@@ -1,3 +1,5 @@
 this is a file for rewriting saga.
 
 rebase command is used to integrate changes from one branch to another by keeping commit history linear on target branch.
+command : git rebase branch_name
+
